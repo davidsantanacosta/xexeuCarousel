@@ -1,0 +1,36 @@
+{
+  "name": "xexeu-carousel",
+  "version": "1.0.0",
+  "description": "carousel project specialized in supporting multiple sizes images",
+  "main": "./dev/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonnymichel/xexeuCarousel.git"
+  },
+  "keywords": [
+    "carousel",
+    "slider",
+    "jquery"
+  ],
+  "author": "Jhonny Michel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonnymichel/xexeuCarousel/issues"
+  },
+  "homepage": "https://github.com/jhonnymichel/xexeuCarousel#readme",
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "eslint": "^3.5.0",
+    "eslint-config-google": "^0.6.0",
+    "eslint-plugin-jquery": "^1.0.1",
+    "webpack": "^1.13.2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "extends": "eslint-config-google",
+  "plugins": [
+    "jquery"
+  ],
+  "rules": {
+      "linebreak-style": "off",
+      "object-curly-spacing": ["error", "always"]
+  },
+  "env": {
+      "browser": true
+  }
+
+}
